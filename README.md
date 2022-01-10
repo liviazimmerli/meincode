@@ -1,4 +1,4 @@
-# meincode
+# Benutzername_Programmieren
 informatik_januar_2022
 
 ## Benutzername
