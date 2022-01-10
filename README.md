@@ -16,7 +16,7 @@ informatik_januar_2022
 - ist schnell und einfach zu benutzen
 - bietet Ihnen Sicherheit
 
-##Reflexion
+## Reflexion
 
 - Ich habe Python kennen gelernt und lernte welche Abkürzungen für welche Aufgaben zuständig sind. 
 - Ich kann nun selbst kleine, einfache Dinge programmieren.
