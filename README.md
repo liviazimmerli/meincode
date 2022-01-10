@@ -6,3 +6,6 @@ informatik_januar_2022
 - Dieses Programm fragt nach dem Benutzernamen und nach dem Passwort.
 - Wenn beides korrekt eigegeben wurde, ist die Ausgabe: "Benutzername und Passwort genehmigt".
 - Wenn eines der beiden falsch eingegeben wurde, ist die Ausgabe: "Programm oder Passwort falsch".
+
+
+<img width="637" alt="image" src="https://user-images.githubusercontent.com/97448614/148772135-2a7e331a-6137-4e81-9817-182fabb19955.png">
